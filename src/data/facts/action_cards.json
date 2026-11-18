@@ -1,0 +1,653 @@
+[
+ {
+  "id": "abs",
+  "name": "Ancient Burial Sites",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "arch_expedition",
+  "name": "Archaeological Expedition",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "assassin",
+  "name": "Assassinate Representative",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "blitz",
+  "name": "Blitz",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "bribery",
+  "name": "Bribery",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "bunker",
+  "name": "Bunker",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "confounding",
+  "name": "Confounding Legal Text",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "confusing",
+  "name": "Confusing Legal Text",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "const_rider",
+  "name": "Construction Rider",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "counterstroke",
+  "name": "Counterstroke",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "coup",
+  "name": "Coup d'Etat",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "courageous",
+  "name": "Courageous to the End",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "cripple",
+  "name": "Cripple Defenses",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "deadly_plot",
+  "name": "Deadly Plot",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "decoy",
+  "name": "Decoy Operation",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "diplo_rider",
+  "name": "Diplomacy Rider",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "dp",
+  "name": "Diplomatic Pressure",
+  "phase": "agenda",
+  "copies": 4,
+  "exp": "pok"
+ },
+ {
+  "id": "dh",
+  "name": "Direct Hit",
+  "phase": "action",
+  "copies": 4,
+  "exp": "base"
+ },
+ {
+  "id": "disable",
+  "name": "Disable",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "distinguished",
+  "name": "Distinguished Councilor",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "divert_funding",
+  "name": "Divert Funding",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "economic_initiative",
+  "name": "Economic Initiative",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "emergency",
+  "name": "Emergency Repairs",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "experimental",
+  "name": "Experimental Battlestation",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "probe",
+  "name": "Exploration Probe",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "f_conscription",
+  "name": "Fighter Conscription",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "f_prototype",
+  "name": "Fighter Prototype",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "fire_team",
+  "name": "Fire Team",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "fs",
+  "name": "Flank Speed",
+  "phase": "action",
+  "copies": 4,
+  "exp": "base"
+ },
+ {
+  "id": "f_researched",
+  "name": "Focused Research",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "fsb",
+  "name": "Forward Supply Base",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "f_deployment",
+  "name": "Frontline Deployment",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "ghost_ship",
+  "name": "Ghost Ship",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "ghost_squad",
+  "name": "Ghost Squad",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "hack",
+  "name": "Hack Election",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "harness",
+  "name": "Harness Energy",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "imp_rider",
+  "name": "Imperial Rider",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "impersonation",
+  "name": "Impersonation",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "silence_space",
+  "name": "In The Silence Of Space",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "industrial_initiative",
+  "name": "Industrial Initiative",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "infiltrate",
+  "name": "Infiltrate",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "insider",
+  "name": "Insider Information",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "insub",
+  "name": "Insubordination",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "intercept",
+  "name": "Intercept",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "lead_rider",
+  "name": "Leadership Rider",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "lost_star",
+  "name": "Lost Star Chart",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "lucky",
+  "name": "Lucky Shot",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "mjets",
+  "name": "Maneuvering Jets",
+  "phase": "action",
+  "copies": 4,
+  "exp": "base"
+ },
+ {
+  "id": "investments",
+  "name": "Manipulate Investments",
+  "phase": "strategy",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "master_plan",
+  "name": "Master Plan",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "mining_initiative",
+  "name": "Mining Initiative",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "mb",
+  "name": "Morale Boost",
+  "phase": "action",
+  "copies": 4,
+  "exp": "base"
+ },
+ {
+  "id": "nav_suite",
+  "name": "Nav Suite",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "parley",
+  "name": "Parley",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "plagiarize",
+  "name": "Plagiarize",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "plague",
+  "name": "Plague",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "stability",
+  "name": "Political Stability",
+  "phase": "status",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "politic_rider",
+  "name": "Politics Rider",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "disgrace",
+  "name": "Public Disgrace",
+  "phase": "strategy",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "rally",
+  "name": "Rally",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "meltdown",
+  "name": "Reactor Meltdown",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "refit",
+  "name": "Refit Troops",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "reflective",
+  "name": "Reflective Shielding",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "reparations",
+  "name": "Reparations",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "repeal",
+  "name": "Repeal Law",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "reveal_prototype",
+  "name": "Reveal Prototype",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "reverse_engineer",
+  "name": "Reverse Engineer",
+  "phase": "any",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "messiah",
+  "name": "Rise of a Messiah",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "rout",
+  "name": "Rout",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "sabo",
+  "name": "Sabotage",
+  "phase": "any",
+  "copies": 4,
+  "exp": "base"
+ },
+ {
+  "id": "salvage",
+  "name": "Salvage",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "sanction",
+  "name": "Sanction",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "scramble",
+  "name": "Scramble Frequency",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "scuttle",
+  "name": "Scuttle",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "seize",
+  "name": "Seize Artifact",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "sh",
+  "name": "Shields Holding",
+  "phase": "action",
+  "copies": 4,
+  "exp": "base"
+ },
+ {
+  "id": "jamming",
+  "name": "Signal Jamming",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "s_retreat",
+  "name": "Skilled Retreat",
+  "phase": "action",
+  "copies": 4,
+  "exp": "base"
+ },
+ {
+  "id": "solar_flare",
+  "name": "Solar Flare",
+  "phase": "action",
+  "copies": 1,
+  "exp": "codex"
+ },
+ {
+  "id": "spy",
+  "name": "Spy",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "summit",
+  "name": "Summit",
+  "phase": "strategy",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "tactical",
+  "name": "Tactical Bombardment",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "tech_rider",
+  "name": "Technology Rider",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "trade_rider",
+  "name": "Trade Rider",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "unexpected",
+  "name": "Unexpected Action",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "unstable",
+  "name": "Unstable Planet",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "upgrade",
+  "name": "Upgrade",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "uprising",
+  "name": "Uprising",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "veto",
+  "name": "Veto",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "war_effort",
+  "name": "War Effort",
+  "phase": "action",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "war_machine",
+  "name": "War Machine",
+  "phase": "action",
+  "copies": 4,
+  "exp": "codex"
+ },
+ {
+  "id": "war_rider",
+  "name": "Warfare Rider",
+  "phase": "agenda",
+  "copies": 1,
+  "exp": "base"
+ },
+ {
+  "id": "waylay",
+  "name": "Waylay",
+  "phase": "action",
+  "copies": 1,
+  "exp": "pok"
+ }
+]

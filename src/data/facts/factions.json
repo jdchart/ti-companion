@@ -1,0 +1,1188 @@
+[
+ {
+  "id": "arborec",
+  "name": "The Arborec",
+  "exp": "base",
+  "commodities": 3,
+  "homePlanets": [
+   "nestphar"
+  ],
+  "factionTech": [
+   "bio",
+   "lw2"
+  ],
+  "startingTech": [
+   "md"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "cv, cr,2 ff, 4 inf n,pds n, sd n",
+  "abilities": [
+   "mitosis"
+  ],
+  "leaders": [
+   "arborecagent",
+   "arboreccommander",
+   "arborechero"
+  ],
+  "promissory": [
+   "stymie"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "arborec_flagship",
+   "arborec_infantry",
+   "arborec_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "High"
+ },
+ {
+  "id": "ghost",
+  "name": "The Ghosts of Creuss",
+  "exp": "base",
+  "commodities": 4,
+  "homePlanets": [
+   "creuss"
+  ],
+  "factionTech": [
+   "ds",
+   "wg"
+  ],
+  "startingTech": [
+   "gd"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "cv,2 dd,2 ff,4 inf c,sd c",
+  "abilities": [
+   "quantum_entanglement",
+   "slipstream",
+   "creuss_gate"
+  ],
+  "leaders": [
+   "ghostagent",
+   "ghostcommander",
+   "ghosthero"
+  ],
+  "promissory": [
+   "iff"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "ghost_flagship",
+   "infantry",
+   "ghost_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Moderate"
+ },
+ {
+  "id": "hacan",
+  "name": "The Emirates of Hacan",
+  "exp": "base",
+  "commodities": 6,
+  "homePlanets": [
+   "arretze",
+   "hercant",
+   "kamdorn"
+  ],
+  "factionTech": [
+   "qdn",
+   "pm"
+  ],
+  "startingTech": [
+   "st",
+   "amd"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "2 cv,cr,2 ff,2 inf h,sd a, inf a, inf k",
+  "abilities": [
+   "master_of_trade",
+   "guild_ships",
+   "arbiters"
+  ],
+  "leaders": [
+   "hacanagent",
+   "hacancommander",
+   "hacanhero"
+  ],
+  "promissory": [
+   "convoys"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "hacan_flagship",
+   "infantry",
+   "hacan_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "jolnar",
+  "name": "The Universities of Jol-Nar",
+  "exp": "base",
+  "commodities": 4,
+  "homePlanets": [
+   "jol",
+   "nar"
+  ],
+  "factionTech": [
+   "ers",
+   "scc"
+  ],
+  "startingTech": [
+   "amd",
+   "st",
+   "nm",
+   "ps"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "dn,2 cv,ff,2 inf j,sd n,pds j,pds n",
+  "abilities": [
+   "fragile",
+   "brilliant",
+   "analytical"
+  ],
+  "leaders": [
+   "jolnaragent",
+   "jolnarcommander",
+   "jolnarhero"
+  ],
+  "promissory": [
+   "ra"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "jolnar_flagship",
+   "infantry",
+   "jolnar_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "l1z1x",
+  "name": "The L1Z1X Mindnet",
+  "exp": "base",
+  "commodities": 2,
+  "homePlanets": [
+   "0.0.0"
+  ],
+  "factionTech": [
+   "is",
+   "sdn2"
+  ],
+  "startingTech": [
+   "ps",
+   "nm"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "dn, cv, 3 ff, 5 inf 0,sd 0,pds 0",
+  "abilities": [
+   "assimilate",
+   "harrow"
+  ],
+  "leaders": [
+   "l1z1xagent",
+   "l1z1xcommander",
+   "l1z1xhero"
+  ],
+  "promissory": [
+   "ce"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "l1z1x_dreadnought",
+   "l1z1x_flagship",
+   "infantry",
+   "l1z1x_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "letnev",
+  "name": "The Barony of Letnev",
+  "exp": "base",
+  "commodities": 2,
+  "homePlanets": [
+   "arcprime",
+   "wrenterra"
+  ],
+  "factionTech": [
+   "l4",
+   "nes"
+  ],
+  "startingTech": [
+   "amd",
+   "ps"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "dn,cv,dd,ff, 3 inf w,sd a",
+  "abilities": [
+   "munitions",
+   "armada"
+  ],
+  "leaders": [
+   "letnevagent",
+   "letnevcommander",
+   "letnevhero"
+  ],
+  "promissory": [
+   "war_funding"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "letnev_flagship",
+   "infantry",
+   "letnev_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "mentak",
+  "name": "The Mentak Coalition",
+  "exp": "base",
+  "commodities": 2,
+  "homePlanets": [
+   "mollprimus"
+  ],
+  "factionTech": [
+   "mc",
+   "so"
+  ],
+  "startingTech": [
+   "ps",
+   "st"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "cv,2 cr,3 ff,4 inf m,pds m,sd m",
+  "abilities": [
+   "ambush",
+   "pillage"
+  ],
+  "leaders": [
+   "mentakagent",
+   "mentakcommander",
+   "mentakhero"
+  ],
+  "promissory": [
+   "pop"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "mentak_flagship",
+   "infantry",
+   "mentak_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "High"
+ },
+ {
+  "id": "muaat",
+  "name": "The Embers of Muaat",
+  "exp": "base",
+  "commodities": 4,
+  "homePlanets": [
+   "muaat"
+  ],
+  "factionTech": [
+   "pws2",
+   "mr"
+  ],
+  "startingTech": [
+   "ps"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "ws,2 ff,4 inf m,sd m",
+  "abilities": [
+   "star_forge",
+   "gashlai_physiology"
+  ],
+  "leaders": [
+   "muaatagent",
+   "muaatcommander",
+   "muaathero"
+  ],
+  "promissory": [
+   "fires"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "muaat_flagship",
+   "muaat_warsun",
+   "infantry",
+   "muaat_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "High"
+ },
+ {
+  "id": "naalu",
+  "name": "The Naalu Collective",
+  "exp": "base",
+  "commodities": 3,
+  "homePlanets": [
+   "maaluuk",
+   "druaa"
+  ],
+  "factionTech": [
+   "ng",
+   "hcf2"
+  ],
+  "startingTech": [
+   "st",
+   "nm"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "cv,cr,dd,3 ff,2 inf m,2 inf d,pds m,sd d",
+  "abilities": [
+   "telepathic",
+   "foresight"
+  ],
+  "leaders": [
+   "naaluagent-te",
+   "naalucommander",
+   "naaluhero"
+  ],
+  "promissory": [
+   "gift"
+  ],
+  "units": [
+   "naalu_fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "naalu_flagship",
+   "infantry",
+   "naalu_mech_te",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Moderate"
+ },
+ {
+  "id": "nekro",
+  "name": "The Nekro Virus",
+  "exp": "base",
+  "commodities": 3,
+  "homePlanets": [
+   "mordaiii"
+  ],
+  "factionTech": [
+   "vax",
+   "vay"
+  ],
+  "startingTech": [
+   "dxa"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "dn,cv,cr,2 ff,2 inf m,sd m",
+  "abilities": [
+   "galactic_threat",
+   "technological_singularity",
+   "propagation"
+  ],
+  "leaders": [
+   "nekroagent",
+   "nekrocommander",
+   "nekrohero"
+  ],
+  "promissory": [
+   "antivirus"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "nekro_flagship",
+   "infantry",
+   "nekro_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "High"
+ },
+ {
+  "id": "saar",
+  "name": "The Clan of Saar",
+  "exp": "base",
+  "commodities": 3,
+  "homePlanets": [
+   "ragh",
+   "lisisii"
+  ],
+  "factionTech": [
+   "ffac2",
+   "cm"
+  ],
+  "startingTech": [
+   "amd"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "2 cv,1 cr,2 ff,4 inf, sd",
+  "abilities": [
+   "scavenge",
+   "nomadic"
+  ],
+  "leaders": [
+   "saaragent",
+   "saarcommander",
+   "saarhero"
+  ],
+  "promissory": [
+   "ragh"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "saar_flagship",
+   "infantry",
+   "saar_mech",
+   "pds",
+   "saar_spacedock"
+  ],
+  "complexity": "Moderate"
+ },
+ {
+  "id": "sardakk",
+  "name": "Sardakk Norr",
+  "exp": "base",
+  "commodities": 3,
+  "homePlanets": [
+   "quinarra",
+   "trenlak"
+  ],
+  "factionTech": [
+   "exo2",
+   "vpw"
+  ],
+  "startingTech": [],
+  "startingTechOptions": [],
+  "startingTechAmount": 0,
+  "startingFleet": "2 cv,cr,3 inf q,2 inf t,sd q,pds t",
+  "abilities": [
+   "unrelenting"
+  ],
+  "leaders": [
+   "sardakkagent",
+   "sardakkcommander",
+   "sardakkhero"
+  ],
+  "promissory": [
+   "tekklar"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "sardakk_dreadnought",
+   "sardakk_flagship",
+   "infantry",
+   "sardakk_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Moderate"
+ },
+ {
+  "id": "sol",
+  "name": "The Federation of Sol",
+  "exp": "base",
+  "commodities": 4,
+  "homePlanets": [
+   "jord"
+  ],
+  "factionTech": [
+   "so2",
+   "ac2"
+  ],
+  "startingTech": [
+   "amd",
+   "nm"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "2 cv, dd, 3 ff,5 inf j, sd j",
+  "abilities": [
+   "orbital_drop",
+   "versatile"
+  ],
+  "leaders": [
+   "solagent",
+   "solcommander",
+   "solhero"
+  ],
+  "promissory": [
+   "ms"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "sol_carrier",
+   "dreadnought",
+   "sol_flagship",
+   "sol_infantry",
+   "sol_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "winnu",
+  "name": "The Winnu",
+  "exp": "base",
+  "commodities": 3,
+  "homePlanets": [
+   "winnu"
+  ],
+  "factionTech": [
+   "lgf",
+   "htp"
+  ],
+  "startingTech": [],
+  "startingTechOptions": [
+   "amd",
+   "det",
+   "nm",
+   "pa",
+   "st",
+   "sdn",
+   "ps",
+   "aida"
+  ],
+  "startingTechAmount": 1,
+  "startingFleet": "cv,cr,2 ff,2 inf w,pds w, sd w",
+  "abilities": [
+   "blood_ties",
+   "reclamation"
+  ],
+  "leaders": [
+   "winnuagent",
+   "winnucommander",
+   "winnuhero"
+  ],
+  "promissory": [
+   "acq"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "winnu_flagship",
+   "infantry",
+   "winnu_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Moderate"
+ },
+ {
+  "id": "xxcha",
+  "name": "The Xxcha Kingdom",
+  "exp": "base",
+  "commodities": 4,
+  "homePlanets": [
+   "archonren",
+   "archontau"
+  ],
+  "factionTech": [
+   "it",
+   "nf"
+  ],
+  "startingTech": [
+   "gls"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "cv,2 cr,3 ff,2 inf at,2 inf ar,pds at,sd ar",
+  "abilities": [
+   "peace_accords",
+   "quash"
+  ],
+  "leaders": [
+   "xxchaagent",
+   "xxchacommander",
+   "xxchahero"
+  ],
+  "promissory": [
+   "favor"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "xxcha_flagship",
+   "infantry",
+   "xxcha_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "yin",
+  "name": "The Yin Brotherhood",
+  "exp": "base",
+  "commodities": 2,
+  "homePlanets": [
+   "darien"
+  ],
+  "factionTech": [
+   "yso",
+   "ic"
+  ],
+  "startingTech": [
+   "st"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "2 cv,dd,4 ff,4 inf d,sd d",
+  "abilities": [
+   "indoctrination",
+   "devotion"
+  ],
+  "leaders": [
+   "yinagent",
+   "yincommander",
+   "yinhero"
+  ],
+  "promissory": [
+   "greyfire"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "yin_flagship",
+   "infantry",
+   "yin_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "yssaril",
+  "name": "The Yssaril Tribes",
+  "exp": "base",
+  "commodities": 3,
+  "homePlanets": [
+   "retillion",
+   "shalloq"
+  ],
+  "factionTech": [
+   "tp",
+   "mi"
+  ],
+  "startingTech": [
+   "nm"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "2 cv,cr, 2 ff, 2 inf s,3 inf r,pds s,sd r",
+  "abilities": [
+   "stall_tactics",
+   "scheming",
+   "crafty"
+  ],
+  "leaders": [
+   "yssarilagent",
+   "yssarilcommander",
+   "yssarilhero"
+  ],
+  "promissory": [
+   "spynet"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "yssaril_flagship",
+   "infantry",
+   "yssaril_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "argent",
+  "name": "The Argent Flight",
+  "exp": "pok",
+  "commodities": 3,
+  "homePlanets": [
+   "valk",
+   "ylir",
+   "avar"
+  ],
+  "factionTech": [
+   "ah",
+   "swa2"
+  ],
+  "startingTech": [],
+  "startingTechOptions": [
+   "nm",
+   "st",
+   "ps"
+  ],
+  "startingTechAmount": 2,
+  "startingFleet": "cv,2 dd,2 ff,3 inf v,2 inf a, pds y,sd v",
+  "abilities": [
+   "zeal",
+   "raid_formation"
+  ],
+  "leaders": [
+   "argentagent",
+   "argentcommander",
+   "argenthero"
+  ],
+  "promissory": [
+   "ambuscade"
+  ],
+  "units": [
+   "fighter",
+   "argent_destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "argent_flagship",
+   "infantry",
+   "argent_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "cabal",
+  "name": "The Vuil'raith Cabal",
+  "exp": "pok",
+  "commodities": 2,
+  "homePlanets": [
+   "acheron"
+  ],
+  "factionTech": [
+   "dt2",
+   "vtx"
+  ],
+  "startingTech": [
+   "sar"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "dn,cv,cr,3 ff,3 inf a,sd a",
+  "abilities": [
+   "devour",
+   "amalgamation",
+   "riftmeld"
+  ],
+  "leaders": [
+   "cabalagent",
+   "cabalcommander",
+   "cabalhero"
+  ],
+  "promissory": [
+   "crucible"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "cabal_flagship",
+   "infantry",
+   "cabal_mech",
+   "pds",
+   "cabal_spacedock"
+  ],
+  "complexity": "High"
+ },
+ {
+  "id": "empyrean",
+  "name": "The Empyrean",
+  "exp": "pok",
+  "commodities": 4,
+  "homePlanets": [
+   "thedark"
+  ],
+  "factionTech": [
+   "vw",
+   "as"
+  ],
+  "startingTech": [
+   "det"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "2 cv,dd,2 ff,4 inf t,sd t",
+  "abilities": [
+   "voidborn",
+   "aetherpassage",
+   "dark_whispers"
+  ],
+  "leaders": [
+   "empyreanagent",
+   "empyreancommander",
+   "empyreanhero"
+  ],
+  "promissory": [
+   "dark_pact",
+   "blood_pact"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "empyrean_flagship",
+   "infantry",
+   "empyrean_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "mahact",
+  "name": "The Mahact Gene-Sorcerers",
+  "exp": "pok",
+  "commodities": 3,
+  "homePlanets": [
+   "ixth"
+  ],
+  "factionTech": [
+   "cl2",
+   "gr"
+  ],
+  "startingTech": [
+   "pi",
+   "bs"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "dn, cv,cr,2 ff, 3 inf i,sd i",
+  "abilities": [
+   "edict",
+   "imperia",
+   "hubris"
+  ],
+  "leaders": [
+   "mahactagent",
+   "mahactcommander",
+   "mahacthero"
+  ],
+  "promissory": [
+   "scepter"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "mahact_flagship",
+   "mahact_infantry",
+   "mahact_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "High"
+ },
+ {
+  "id": "nomad",
+  "name": "The Nomad",
+  "exp": "pok",
+  "commodities": 4,
+  "homePlanets": [
+   "arcturus"
+  ],
+  "factionTech": [
+   "m2",
+   "tcs"
+  ],
+  "startingTech": [
+   "sr"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "cv,dd,3 ff,fs,4 inf a,sd a",
+  "abilities": [
+   "the_company",
+   "future_sight"
+  ],
+  "leaders": [
+   "nomadagentmercer",
+   "nomadagentthundarian",
+   "nomadagentartuno",
+   "nomadcommander",
+   "nomadhero"
+  ],
+  "promissory": [
+   "cavalry"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "nomad_flagship",
+   "infantry",
+   "nomad_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "naaz",
+  "name": "The Naaz-Rokha Alliance",
+  "exp": "pok",
+  "commodities": 3,
+  "homePlanets": [
+   "naazir",
+   "rokha"
+  ],
+  "factionTech": [
+   "pfa",
+   "sc"
+  ],
+  "startingTech": [
+   "pa",
+   "aida"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "2 cv,dd,2 ff,3 inf n,mech r,sd n",
+  "abilities": [
+   "distant_suns",
+   "fabrication"
+  ],
+  "leaders": [
+   "naazagent",
+   "naazcommander",
+   "naazhero"
+  ],
+  "promissory": [
+   "bmf"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "naaz_flagship",
+   "infantry",
+   "naaz_mech",
+   "naaz_mech_space",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Low"
+ },
+ {
+  "id": "titans",
+  "name": "The Titans of Ul",
+  "exp": "pok",
+  "commodities": 2,
+  "homePlanets": [
+   "elysium"
+  ],
+  "factionTech": [
+   "ht2",
+   "se2"
+  ],
+  "startingTech": [
+   "amd",
+   "sdn"
+  ],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "dn,2 cr,2 ff,3 inf elysium,sd elysium",
+  "abilities": [
+   "terragenesis",
+   "awaken",
+   "coalescence"
+  ],
+  "leaders": [
+   "titansagent",
+   "titanscommander",
+   "titanshero"
+  ],
+  "promissory": [
+   "terraform"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "titans_cruiser",
+   "carrier",
+   "dreadnought",
+   "titans_flagship",
+   "infantry",
+   "titans_mech",
+   "titans_pds",
+   "spacedock"
+  ],
+  "complexity": "Moderate"
+ },
+ {
+  "id": "keleres",
+  "name": "The Council Keleres",
+  "exp": "codex",
+  "commodities": 2,
+  "homePlanets": [
+   "mollprimusk",
+   "archonrenk",
+   "archontauk",
+   "valkk",
+   "ylirk",
+   "avark"
+  ],
+  "factionTech": [
+   "iihq",
+   "asn"
+  ],
+  "startingTech": [],
+  "startingTechOptions": [],
+  "startingTechAmount": null,
+  "startingFleet": "2 inf, 2 cv, 2 ff, 1 ca, sd mollprimusk",
+  "abilities": [
+   "the_tribuni",
+   "council_patronage",
+   "laws_order"
+  ],
+  "leaders": [
+   "keleresagent",
+   "kelerescommander",
+   "keleresheroharka",
+   "keleresheroodlynn",
+   "keleresherokuuasi"
+  ],
+  "promissory": [
+   "riderm",
+   "riderx",
+   "ridera"
+  ],
+  "units": [
+   "fighter",
+   "destroyer",
+   "cruiser",
+   "carrier",
+   "dreadnought",
+   "keleres_flagship",
+   "infantry",
+   "keleres_mech",
+   "pds",
+   "spacedock"
+  ],
+  "complexity": "Moderate",
+  "variants": [
+   {
+    "of": "m",
+    "homePlanets": [
+     "mollprimusk"
+    ],
+    "hero": "keleresheroharka",
+    "promissory": [
+     "riderm"
+    ]
+   },
+   {
+    "of": "x",
+    "homePlanets": [
+     "archonrenk",
+     "archontauk"
+    ],
+    "hero": "keleresheroodlynn",
+    "promissory": [
+     "riderx"
+    ]
+   },
+   {
+    "of": "a",
+    "homePlanets": [
+     "valkk",
+     "ylirk",
+     "avark"
+    ],
+    "hero": "keleresherokuuasi",
+    "promissory": [
+     "ridera"
+    ]
+   }
+  ]
+ }
+]

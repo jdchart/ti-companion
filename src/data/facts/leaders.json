@@ -1,0 +1,548 @@
+[
+ {
+  "id": "arborecagent",
+  "name": "Letani Ospha",
+  "type": "agent",
+  "faction": "arborec",
+  "exp": "pok"
+ },
+ {
+  "id": "argentagent",
+  "name": "Trilossa Aun Mirik",
+  "type": "agent",
+  "faction": "argent",
+  "exp": "pok"
+ },
+ {
+  "id": "cabalagent",
+  "name": "The Stillness of Stars",
+  "type": "agent",
+  "faction": "cabal",
+  "exp": "pok"
+ },
+ {
+  "id": "ghostagent",
+  "name": "Emissary Taivra",
+  "type": "agent",
+  "faction": "ghost",
+  "exp": "pok"
+ },
+ {
+  "id": "empyreanagent",
+  "name": "Acamar",
+  "type": "agent",
+  "faction": "empyrean",
+  "exp": "pok"
+ },
+ {
+  "id": "hacanagent",
+  "name": "Carth of Golden Sands",
+  "type": "agent",
+  "faction": "hacan",
+  "exp": "pok"
+ },
+ {
+  "id": "jolnaragent",
+  "name": "Doctor Sucaban",
+  "type": "agent",
+  "faction": "jolnar",
+  "exp": "pok"
+ },
+ {
+  "id": "keleresagent",
+  "name": "Xander Alexin Victori III",
+  "type": "agent",
+  "faction": "keleres",
+  "exp": "pok"
+ },
+ {
+  "id": "l1z1xagent",
+  "name": "I48S",
+  "type": "agent",
+  "faction": "l1z1x",
+  "exp": "pok"
+ },
+ {
+  "id": "letnevagent",
+  "name": "Viscount Unlenn",
+  "type": "agent",
+  "faction": "letnev",
+  "exp": "pok"
+ },
+ {
+  "id": "mahactagent",
+  "name": "Jae Mir Kan",
+  "type": "agent",
+  "faction": "mahact",
+  "exp": "pok"
+ },
+ {
+  "id": "mentakagent",
+  "name": "Suffi An",
+  "type": "agent",
+  "faction": "mentak",
+  "exp": "pok"
+ },
+ {
+  "id": "muaatagent",
+  "name": "Umbat",
+  "type": "agent",
+  "faction": "muaat",
+  "exp": "pok"
+ },
+ {
+  "id": "naazagent",
+  "name": "Garv and Gunn",
+  "type": "agent",
+  "faction": "naaz",
+  "exp": "pok"
+ },
+ {
+  "id": "nekroagent",
+  "name": "Nekro Malleon",
+  "type": "agent",
+  "faction": "nekro",
+  "exp": "pok"
+ },
+ {
+  "id": "nomadagentartuno",
+  "name": "Artuno the Betrayer",
+  "type": "agent",
+  "faction": "nomad",
+  "exp": "pok"
+ },
+ {
+  "id": "nomadagentmercer",
+  "name": "Field Marshal Mercer",
+  "type": "agent",
+  "faction": "nomad",
+  "exp": "pok"
+ },
+ {
+  "id": "nomadagentthundarian",
+  "name": "The Thundarian",
+  "type": "agent",
+  "faction": "nomad",
+  "exp": "pok"
+ },
+ {
+  "id": "sardakkagent",
+  "name": "T'ro",
+  "type": "agent",
+  "faction": "sardakk",
+  "exp": "pok"
+ },
+ {
+  "id": "saaragent",
+  "name": "Captain Mendosa",
+  "type": "agent",
+  "faction": "saar",
+  "exp": "pok"
+ },
+ {
+  "id": "solagent",
+  "name": "Evelyn DeLouis",
+  "type": "agent",
+  "faction": "sol",
+  "exp": "pok"
+ },
+ {
+  "id": "titansagent",
+  "name": "Tellurian",
+  "type": "agent",
+  "faction": "titans",
+  "exp": "pok"
+ },
+ {
+  "id": "winnuagent",
+  "name": "Berekar Berekon",
+  "type": "agent",
+  "faction": "winnu",
+  "exp": "pok"
+ },
+ {
+  "id": "xxchaagent",
+  "name": "Ggrocuto Rinn",
+  "type": "agent",
+  "faction": "xxcha",
+  "exp": "pok"
+ },
+ {
+  "id": "yinagent",
+  "name": "Brother Milor",
+  "type": "agent",
+  "faction": "yin",
+  "exp": "pok"
+ },
+ {
+  "id": "yssarilagent",
+  "name": "Ssruu",
+  "type": "agent",
+  "faction": "yssaril",
+  "exp": "pok"
+ },
+ {
+  "id": "arboreccommander",
+  "name": "Dirzuga Rophal",
+  "type": "commander",
+  "faction": "arborec",
+  "exp": "pok"
+ },
+ {
+  "id": "argentcommander",
+  "name": "Trrakan Aun Zulok",
+  "type": "commander",
+  "faction": "argent",
+  "exp": "pok"
+ },
+ {
+  "id": "cabalcommander",
+  "name": "That Which Molds Flesh",
+  "type": "commander",
+  "faction": "cabal",
+  "exp": "pok"
+ },
+ {
+  "id": "ghostcommander",
+  "name": "Sai Seravus",
+  "type": "commander",
+  "faction": "ghost",
+  "exp": "pok"
+ },
+ {
+  "id": "empyreancommander",
+  "name": "Xuange",
+  "type": "commander",
+  "faction": "empyrean",
+  "exp": "pok"
+ },
+ {
+  "id": "hacancommander",
+  "name": "Gila the Silvertongue",
+  "type": "commander",
+  "faction": "hacan",
+  "exp": "pok"
+ },
+ {
+  "id": "jolnarcommander",
+  "name": "Agnlan Oln",
+  "type": "commander",
+  "faction": "jolnar",
+  "exp": "pok"
+ },
+ {
+  "id": "kelerescommander",
+  "name": "Suffi An",
+  "type": "commander",
+  "faction": "keleres",
+  "exp": "pok"
+ },
+ {
+  "id": "l1z1xcommander",
+  "name": "2RAM",
+  "type": "commander",
+  "faction": "l1z1x",
+  "exp": "pok"
+ },
+ {
+  "id": "letnevcommander",
+  "name": "Rear Admiral Farran",
+  "type": "commander",
+  "faction": "letnev",
+  "exp": "pok"
+ },
+ {
+  "id": "mahactcommander",
+  "name": "Il Na Viroset",
+  "type": "commander",
+  "faction": "mahact",
+  "exp": "pok"
+ },
+ {
+  "id": "mentakcommander",
+  "name": "S'ula Mentarion",
+  "type": "commander",
+  "faction": "mentak",
+  "exp": "pok"
+ },
+ {
+  "id": "muaatcommander",
+  "name": "Magmus",
+  "type": "commander",
+  "faction": "muaat",
+  "exp": "pok"
+ },
+ {
+  "id": "naalucommander",
+  "name": "M'aban",
+  "type": "commander",
+  "faction": "naalu",
+  "exp": "pok"
+ },
+ {
+  "id": "naazcommander",
+  "name": "Dart and Tai",
+  "type": "commander",
+  "faction": "naaz",
+  "exp": "pok"
+ },
+ {
+  "id": "nekrocommander",
+  "name": "Nekro Acidos",
+  "type": "commander",
+  "faction": "nekro",
+  "exp": "pok"
+ },
+ {
+  "id": "nomadcommander",
+  "name": "Navarch Feng",
+  "type": "commander",
+  "faction": "nomad",
+  "exp": "pok"
+ },
+ {
+  "id": "saarcommander",
+  "name": "Rowl Sarrig",
+  "type": "commander",
+  "faction": "saar",
+  "exp": "pok"
+ },
+ {
+  "id": "sardakkcommander",
+  "name": "G'hom Sek'kus",
+  "type": "commander",
+  "faction": "sardakk",
+  "exp": "pok"
+ },
+ {
+  "id": "solcommander",
+  "name": "Claire Gibson",
+  "type": "commander",
+  "faction": "sol",
+  "exp": "pok"
+ },
+ {
+  "id": "titanscommander",
+  "name": "Tungstantus",
+  "type": "commander",
+  "faction": "titans",
+  "exp": "pok"
+ },
+ {
+  "id": "winnucommander",
+  "name": "Rickar Rickani",
+  "type": "commander",
+  "faction": "winnu",
+  "exp": "pok"
+ },
+ {
+  "id": "xxchacommander",
+  "name": "Elder Qanoj",
+  "type": "commander",
+  "faction": "xxcha",
+  "exp": "pok"
+ },
+ {
+  "id": "yincommander",
+  "name": "Brother Omar",
+  "type": "commander",
+  "faction": "yin",
+  "exp": "pok"
+ },
+ {
+  "id": "yssarilcommander",
+  "name": "So Ata",
+  "type": "commander",
+  "faction": "yssaril",
+  "exp": "pok"
+ },
+ {
+  "id": "arborechero",
+  "name": "Letani Miasmiala",
+  "type": "hero",
+  "faction": "arborec",
+  "exp": "pok"
+ },
+ {
+  "id": "argenthero",
+  "name": "Mirik Aun Sissiri",
+  "type": "hero",
+  "faction": "argent",
+  "exp": "pok"
+ },
+ {
+  "id": "cabalhero",
+  "name": "It Feeds on Carrion",
+  "type": "hero",
+  "faction": "cabal",
+  "exp": "pok"
+ },
+ {
+  "id": "ghosthero",
+  "name": "Riftwalker Meian",
+  "type": "hero",
+  "faction": "ghost",
+  "exp": "pok"
+ },
+ {
+  "id": "empyreanhero",
+  "name": "Conservator Procyon",
+  "type": "hero",
+  "faction": "empyrean",
+  "exp": "pok"
+ },
+ {
+  "id": "hacanhero",
+  "name": "Harrugh Gefhara",
+  "type": "hero",
+  "faction": "hacan",
+  "exp": "pok"
+ },
+ {
+  "id": "jolnarhero",
+  "name": "Rin, the Master's Legacy",
+  "type": "hero",
+  "faction": "jolnar",
+  "exp": "pok"
+ },
+ {
+  "id": "keleresherokuuasi",
+  "name": "Kuuasi Aun Jalatai",
+  "type": "hero",
+  "faction": "keleres",
+  "exp": "pok"
+ },
+ {
+  "id": "keleresheroodlynn",
+  "name": "Odlynn Myrr",
+  "type": "hero",
+  "faction": "keleres",
+  "exp": "pok"
+ },
+ {
+  "id": "keleresheroharka",
+  "name": "Harka Leeds",
+  "type": "hero",
+  "faction": "keleres",
+  "exp": "pok"
+ },
+ {
+  "id": "l1z1xhero",
+  "name": "The Helmsman",
+  "type": "hero",
+  "faction": "l1z1x",
+  "exp": "pok"
+ },
+ {
+  "id": "letnevhero",
+  "name": "Darktalon Treilla",
+  "type": "hero",
+  "faction": "letnev",
+  "exp": "pok"
+ },
+ {
+  "id": "mahacthero",
+  "name": "Airo Shir Aur",
+  "type": "hero",
+  "faction": "mahact",
+  "exp": "pok"
+ },
+ {
+  "id": "mentakhero",
+  "name": "Ipswitch, Loose Cannon",
+  "type": "hero",
+  "faction": "mentak",
+  "exp": "pok"
+ },
+ {
+  "id": "muaathero",
+  "name": "Adjudicator Ba'al",
+  "type": "hero",
+  "faction": "muaat",
+  "exp": "pok"
+ },
+ {
+  "id": "naaluhero",
+  "name": "The Oracle",
+  "type": "hero",
+  "faction": "naalu",
+  "exp": "pok"
+ },
+ {
+  "id": "naazhero",
+  "name": "Hesh and Prit",
+  "type": "hero",
+  "faction": "naaz",
+  "exp": "pok"
+ },
+ {
+  "id": "nekrohero",
+  "name": "UNIT.DSGN.FLAYESH",
+  "type": "hero",
+  "faction": "nekro",
+  "exp": "pok"
+ },
+ {
+  "id": "nomadhero",
+  "name": "Ahk-Syl Siven",
+  "type": "hero",
+  "faction": "nomad",
+  "exp": "pok"
+ },
+ {
+  "id": "sardakkhero",
+  "name": "Sh'val, Harbinger",
+  "type": "hero",
+  "faction": "sardakk",
+  "exp": "pok"
+ },
+ {
+  "id": "saarhero",
+  "name": "Gurno Aggero",
+  "type": "hero",
+  "faction": "saar",
+  "exp": "pok"
+ },
+ {
+  "id": "solhero",
+  "name": "Jace X, 4th Air Legion",
+  "type": "hero",
+  "faction": "sol",
+  "exp": "pok"
+ },
+ {
+  "id": "titanshero",
+  "name": "Ul the Progenitor",
+  "type": "hero",
+  "faction": "titans",
+  "exp": "pok"
+ },
+ {
+  "id": "winnuhero",
+  "name": "Mathis Mathinus",
+  "type": "hero",
+  "faction": "winnu",
+  "exp": "pok"
+ },
+ {
+  "id": "xxchahero",
+  "name": "Xxekir Grom",
+  "type": "hero",
+  "faction": "xxcha",
+  "exp": "pok"
+ },
+ {
+  "id": "yinhero",
+  "name": "Dannel of the Tenth",
+  "type": "hero",
+  "faction": "yin",
+  "exp": "pok"
+ },
+ {
+  "id": "yssarilhero",
+  "name": "Kyver, Blade and Key",
+  "type": "hero",
+  "faction": "yssaril",
+  "exp": "pok"
+ }
+]

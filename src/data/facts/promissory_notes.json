@@ -1,0 +1,176 @@
+[
+ {
+  "id": "ambuscade",
+  "name": "Strike Wing Ambuscade",
+  "faction": "argent",
+  "exp": "pok"
+ },
+ {
+  "id": "war_funding",
+  "name": "War Funding",
+  "faction": "letnev",
+  "exp": "base"
+ },
+ {
+  "id": "ragh",
+  "name": "Raghs Call",
+  "faction": "saar",
+  "exp": "base"
+ },
+ {
+  "id": "fires",
+  "name": "Fires of the Gashlai",
+  "faction": "muaat",
+  "exp": "base"
+ },
+ {
+  "id": "convoys",
+  "name": "Trade Convoys",
+  "faction": "hacan",
+  "exp": "base"
+ },
+ {
+  "id": "blood_pact",
+  "name": "Blood Pact",
+  "faction": "empyrean",
+  "exp": "pok"
+ },
+ {
+  "id": "ms",
+  "name": "Military Support",
+  "faction": "sol",
+  "exp": "base"
+ },
+ {
+  "id": "iff",
+  "name": "Creuss Iff",
+  "faction": "ghost",
+  "exp": "base"
+ },
+ {
+  "id": "ce",
+  "name": "Cybernetic Enhancements",
+  "faction": "l1z1x",
+  "exp": "base"
+ },
+ {
+  "id": "scepter",
+  "name": "Scepter of Dominion",
+  "faction": "mahact",
+  "exp": "pok"
+ },
+ {
+  "id": "pop",
+  "name": "Promise of Protection",
+  "faction": "mentak",
+  "exp": "base"
+ },
+ {
+  "id": "gift",
+  "name": "Gift of Prescience",
+  "faction": "naalu",
+  "exp": "base"
+ },
+ {
+  "id": "bmf",
+  "name": "Black Market Forgery",
+  "faction": "naaz",
+  "exp": "pok"
+ },
+ {
+  "id": "antivirus",
+  "name": "Antivirus",
+  "faction": "nekro",
+  "exp": "base"
+ },
+ {
+  "id": "cavalry",
+  "name": "The Cavalry",
+  "faction": "nomad",
+  "exp": "pok"
+ },
+ {
+  "id": "tekklar",
+  "name": "Tekklar Legion",
+  "faction": "sardakk",
+  "exp": "base"
+ },
+ {
+  "id": "terraform",
+  "name": "Terraform",
+  "faction": "titans",
+  "exp": "pok"
+ },
+ {
+  "id": "ra",
+  "name": "Research Agreement",
+  "faction": "jolnar",
+  "exp": "base"
+ },
+ {
+  "id": "crucible",
+  "name": "Crucible",
+  "faction": "cabal",
+  "exp": "pok"
+ },
+ {
+  "id": "acq",
+  "name": "Acquiescence",
+  "faction": "winnu",
+  "exp": "base"
+ },
+ {
+  "id": "favor",
+  "name": "Political Favor",
+  "faction": "xxcha",
+  "exp": "base"
+ },
+ {
+  "id": "greyfire",
+  "name": "Greyfire Mutagen",
+  "faction": "yin",
+  "exp": "base"
+ },
+ {
+  "id": "spynet",
+  "name": "Spy Net",
+  "faction": "yssaril",
+  "exp": "base"
+ },
+ {
+  "id": "stymie",
+  "name": "Stymie",
+  "faction": "arborec",
+  "exp": "base"
+ },
+ {
+  "id": "dark_pact",
+  "name": "Dark Pact",
+  "faction": "empyrean",
+  "exp": "pok"
+ },
+ {
+  "id": "rider",
+  "name": "Keleres Rider",
+  "faction": "keleres",
+  "exp": "codex"
+ },
+ {
+  "id": "ridera",
+  "name": "Keleres Rider",
+  "faction": "keleresa",
+  "exp": "codex"
+ },
+ {
+  "id": "riderm",
+  "name": "Keleres Rider",
+  "faction": "keleresm",
+  "exp": "codex"
+ },
+ {
+  "id": "riderx",
+  "name": "Keleres Rider",
+  "faction": "keleresx",
+  "exp": "codex"
+ }
+]

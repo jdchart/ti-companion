@@ -1,0 +1,50 @@
+[
+ {
+  "id": "pok1leadership",
+  "initiative": 1,
+  "name": "Leadership",
+  "color": "#ec1c24"
+ },
+ {
+  "id": "pok2diplomacy",
+  "initiative": 2,
+  "name": "Diplomacy",
+  "color": "#f69421"
+ },
+ {
+  "id": "pok3politics",
+  "initiative": 3,
+  "name": "Politics",
+  "color": "#fff200"
+ },
+ {
+  "id": "pok4construction",
+  "initiative": 4,
+  "name": "Construction",
+  "color": "#39b54a"
+ },
+ {
+  "id": "pok5trade",
+  "initiative": 5,
+  "name": "Trade",
+  "color": "#00a99d"
+ },
+ {
+  "id": "pok6warfare",
+  "initiative": 6,
+  "name": "Warfare",
+  "color": "#008ed4"
+ },
+ {
+  "id": "pok7technology",
+  "initiative": 7,
+  "name": "Technology",
+  "color": "#15489f"
+ },
+ {
+  "id": "pok8imperial",
+  "initiative": 8,
+  "name": "Imperial",
+  "color": "#752b90"
+ }
+]

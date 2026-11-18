@@ -1,0 +1,219 @@
+[
+ {
+  "id": "crf",
+  "name": "Cultural Relic Fragment",
+  "deck": "cultural",
+  "resolution": "fragment",
+  "copies": 9
+ },
+ {
+  "id": "dmz",
+  "name": "Demilitarized Zone",
+  "deck": "cultural",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "ds",
+  "name": "Dyson Sphere",
+  "deck": "cultural",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "frln",
+  "name": "Freelancers",
+  "deck": "cultural",
+  "resolution": "instant",
+  "copies": 3
+ },
+ {
+  "id": "gw",
+  "name": "Gamma Wormhole",
+  "deck": "cultural",
+  "resolution": "token",
+  "copies": 1
+ },
+ {
+  "id": "mo",
+  "name": "Mercenary Outfit",
+  "deck": "cultural",
+  "resolution": "instant",
+  "copies": 3
+ },
+ {
+  "id": "pw",
+  "name": "Paradise World",
+  "deck": "cultural",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "toe",
+  "name": "Tomb of Emphidia",
+  "deck": "cultural",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "dv",
+  "name": "Derelict Vessel",
+  "deck": "frontier",
+  "resolution": "instant",
+  "copies": 2
+ },
+ {
+  "id": "ed",
+  "name": "Enigmatic Device",
+  "deck": "frontier",
+  "resolution": "instant",
+  "copies": 2
+ },
+ {
+  "id": "gamma",
+  "name": "Gamma Relay",
+  "deck": "frontier",
+  "resolution": "token",
+  "copies": 1
+ },
+ {
+  "id": "ion",
+  "name": "Ion Storm",
+  "deck": "frontier",
+  "resolution": "token",
+  "copies": 1
+ },
+ {
+  "id": "lc",
+  "name": "Lost Crew",
+  "deck": "frontier",
+  "resolution": "instant",
+  "copies": 2
+ },
+ {
+  "id": "ms",
+  "name": "Merchant Station",
+  "deck": "frontier",
+  "resolution": "instant",
+  "copies": 2
+ },
+ {
+  "id": "mirage",
+  "name": "Mirage",
+  "deck": "frontier",
+  "resolution": "token",
+  "copies": 1
+ },
+ {
+  "id": "urf",
+  "name": "Unknown Relic Fragment",
+  "deck": "frontier",
+  "resolution": "fragment",
+  "copies": 3
+ },
+ {
+  "id": "cm",
+  "name": "Core Mine",
+  "deck": "hazardous",
+  "resolution": "instant",
+  "copies": 3
+ },
+ {
+  "id": "exp",
+  "name": "Expedition",
+  "deck": "hazardous",
+  "resolution": "instant",
+  "copies": 3
+ },
+ {
+  "id": "hrf",
+  "name": "Hazardous Relic Fragment",
+  "deck": "hazardous",
+  "resolution": "fragment",
+  "copies": 7
+ },
+ {
+  "id": "ls",
+  "name": "Lazax Survivors",
+  "deck": "hazardous",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "mw",
+  "name": "Mining World",
+  "deck": "hazardous",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "rw",
+  "name": "Rich World",
+  "deck": "hazardous",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "vfs",
+  "name": "Volatile Fuel Source",
+  "deck": "hazardous",
+  "resolution": "instant",
+  "copies": 3
+ },
+ {
+  "id": "warfare",
+  "name": "Warfare Research Facility",
+  "deck": "hazardous",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "aw",
+  "name": "Abandoned Warehouses",
+  "deck": "industrial",
+  "resolution": "instant",
+  "copies": 4
+ },
+ {
+  "id": "biotic",
+  "name": "Biotic Research Facility",
+  "deck": "industrial",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "cybernetic",
+  "name": "Cybernetic Research Facility",
+  "deck": "industrial",
+  "resolution": "attach",
+  "copies": 1
+ },
+ {
+  "id": "fb",
+  "name": "Functioning Base",
+  "deck": "industrial",
+  "resolution": "instant",
+  "copies": 4
+ },
+ {
+  "id": "irf",
+  "name": "Industrial Relic Fragment",
+  "deck": "industrial",
+  "resolution": "fragment",
+  "copies": 5
+ },
+ {
+  "id": "lf",
+  "name": "Local Fabricators",
+  "deck": "industrial",
+  "resolution": "instant",
+  "copies": 4
+ },
+ {
+  "id": "propulsion",
+  "name": "Propulsion Research Facility",
+  "deck": "industrial",
+  "resolution": "attach",
+  "copies": 1
+ }
+]

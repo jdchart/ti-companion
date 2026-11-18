@@ -1,0 +1,915 @@
+[
+ {
+  "id": "amd",
+  "name": "Antimass Deflectors",
+  "types": [
+   "propulsion"
+  ],
+  "req": "",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "gd",
+  "name": "Gravity Drive",
+  "types": [
+   "propulsion"
+  ],
+  "req": "B",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "fl",
+  "name": "Fleet Logistics",
+  "types": [
+   "propulsion"
+  ],
+  "req": "BB",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "lwd",
+  "name": "Light/Wave Deflector",
+  "types": [
+   "propulsion"
+  ],
+  "req": "BBB",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "det",
+  "name": "Dark Energy Tap",
+  "types": [
+   "propulsion"
+  ],
+  "req": "",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "sr",
+  "name": "Sling Relay",
+  "types": [
+   "propulsion"
+  ],
+  "req": "B",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "nm",
+  "name": "Neural Motivator",
+  "types": [
+   "biotic"
+  ],
+  "req": "",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "dxa",
+  "name": "Dacxive Animators",
+  "types": [
+   "biotic"
+  ],
+  "req": "G",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "hm",
+  "name": "Hyper Metabolism",
+  "types": [
+   "biotic"
+  ],
+  "req": "GG",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "x89c4",
+  "name": "X-89 Bacterial Weapon ΩΩ",
+  "types": [
+   "biotic"
+  ],
+  "req": "GGG",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "codex"
+ },
+ {
+  "id": "pa",
+  "name": "Psychoarchaeology",
+  "types": [
+   "biotic"
+  ],
+  "req": "",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "bs",
+  "name": "Bio-Stims",
+  "types": [
+   "biotic"
+  ],
+  "req": "G",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "ps",
+  "name": "Plasma Scoring",
+  "types": [
+   "warfare"
+  ],
+  "req": "",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "md",
+  "name": "Magen Defense Grid ΩΩ",
+  "types": [
+   "warfare"
+  ],
+  "req": "R",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "codex"
+ },
+ {
+  "id": "da",
+  "name": "Duranium Armor",
+  "types": [
+   "warfare"
+  ],
+  "req": "RR",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "asc",
+  "name": "Assault Cannon",
+  "types": [
+   "warfare"
+  ],
+  "req": "RRR",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "aida",
+  "name": "AI Development Algorithm",
+  "types": [
+   "warfare"
+  ],
+  "req": "",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "sar",
+  "name": "Self-Assembly Routines",
+  "types": [
+   "warfare"
+  ],
+  "req": "R",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "st",
+  "name": "Sarween Tools",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "gls",
+  "name": "Graviton Laser System",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "Y",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "td",
+  "name": "Transit Diodes",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YY",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "ie",
+  "name": "Integrated Economy",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YYY",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "sdn",
+  "name": "Scanlink Drone Network",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "pi",
+  "name": "Predictive Intelligence",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "Y",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "ws",
+  "name": "War Sun",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "RRRY",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "sd2",
+  "name": "Space Dock II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "YY",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "cr2",
+  "name": "Cruiser II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "GYR",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "dn2",
+  "name": "Dreadnought II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "BBY",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "dd2",
+  "name": "Destroyer II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "RR",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "pds2",
+  "name": "PDS II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "RY",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "cv2",
+  "name": "Carrier II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "BB",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "ff2",
+  "name": "Fighter II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "GB",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "inf2",
+  "name": "Infantry II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "GG",
+  "faction": null,
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "lw2",
+  "name": "Letani Warrior II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "GG",
+  "faction": "arborec",
+  "upgradeOf": "inf2",
+  "exp": "base"
+ },
+ {
+  "id": "swa2",
+  "name": "Strike Wing Alpha II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "RR",
+  "faction": "argent",
+  "upgradeOf": "dd2",
+  "exp": "pok"
+ },
+ {
+  "id": "l4",
+  "name": "L4 Disruptors",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "Y",
+  "faction": "letnev",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "cm",
+  "name": "Chaos Mapping",
+  "types": [
+   "propulsion"
+  ],
+  "req": "B",
+  "faction": "saar",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "pws2",
+  "name": "Prototype War Sun II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "RRRY",
+  "faction": "muaat",
+  "upgradeOf": "ws",
+  "exp": "base"
+ },
+ {
+  "id": "qdn",
+  "name": "Quantum Datahub Node",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YYY",
+  "faction": "hacan",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "as",
+  "name": "Aetherstream",
+  "types": [
+   "propulsion"
+  ],
+  "req": "BB",
+  "faction": "empyrean",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "ac2",
+  "name": "Advanced Carrier II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "BB",
+  "faction": "sol",
+  "upgradeOf": "cv2",
+  "exp": "base"
+ },
+ {
+  "id": "sdn2",
+  "name": "Super Dreadnought II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "BBY",
+  "faction": "l1z1x",
+  "upgradeOf": "dn2",
+  "exp": "base"
+ },
+ {
+  "id": "cl2",
+  "name": "Crimson Legionnaire II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "GG",
+  "faction": "mahact",
+  "upgradeOf": "inf2",
+  "exp": "pok"
+ },
+ {
+  "id": "mc",
+  "name": "Mirror Computing",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YYY",
+  "faction": "mentak",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "hcf2",
+  "name": "Hybrid Crystal Fighter II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "GB",
+  "faction": "naalu",
+  "upgradeOf": "ff2",
+  "exp": "base"
+ },
+ {
+  "id": "pfa",
+  "name": "Pre-Fab Arcologies",
+  "types": [
+   "biotic"
+  ],
+  "req": "GGG",
+  "faction": "naaz",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "vax",
+  "name": "Valefar Assimilator X",
+  "types": [
+   "none"
+  ],
+  "req": "",
+  "faction": "nekro",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "m2",
+  "name": "Memoria II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "GBY",
+  "faction": "nomad",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "exo2",
+  "name": "Exotrireme II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "BBY",
+  "faction": "sardakk",
+  "upgradeOf": "dn2",
+  "exp": "base"
+ },
+ {
+  "id": "se2",
+  "name": "Saturn Engine II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "GYR",
+  "faction": "titans",
+  "upgradeOf": "cr2",
+  "exp": "pok"
+ },
+ {
+  "id": "scc",
+  "name": "Spatial Conduit Cylinder",
+  "types": [
+   "propulsion"
+  ],
+  "req": "BB",
+  "faction": "jolnar",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "dt2",
+  "name": "Dimensional Tear II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "YY",
+  "faction": "cabal",
+  "upgradeOf": "sd2",
+  "exp": "pok"
+ },
+ {
+  "id": "lgf",
+  "name": "Lazax Gate Folding",
+  "types": [
+   "propulsion"
+  ],
+  "req": "BB",
+  "faction": "winnu",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "it",
+  "name": "Instinct Training",
+  "types": [
+   "biotic"
+  ],
+  "req": "G",
+  "faction": "xxcha",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "mi",
+  "name": "Mageon Implants",
+  "types": [
+   "biotic"
+  ],
+  "req": "GGG",
+  "faction": "yssaril",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "bio",
+  "name": "Bioplasmosis",
+  "types": [
+   "biotic"
+  ],
+  "req": "GG",
+  "faction": "arborec",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "ah",
+  "name": "Aerie Hololattice",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "Y",
+  "faction": "argent",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "nes",
+  "name": "Non-Euclidean Shielding",
+  "types": [
+   "warfare"
+  ],
+  "req": "RR",
+  "faction": "letnev",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "ffac2",
+  "name": "Floating Factory II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "YY",
+  "faction": "saar",
+  "upgradeOf": "sd2",
+  "exp": "base"
+ },
+ {
+  "id": "mr",
+  "name": "Magmus Reactor",
+  "types": [
+   "warfare"
+  ],
+  "req": "RR",
+  "faction": "muaat",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "pm",
+  "name": "Production Biomes",
+  "types": [
+   "biotic"
+  ],
+  "req": "GG",
+  "faction": "hacan",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "vw",
+  "name": "Voidwatch",
+  "types": [
+   "biotic"
+  ],
+  "req": "G",
+  "faction": "empyrean",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "so2",
+  "name": "Spec Ops II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "GG",
+  "faction": "sol",
+  "upgradeOf": "inf2",
+  "exp": "base"
+ },
+ {
+  "id": "wg",
+  "name": "Wormhole Generator",
+  "types": [
+   "propulsion"
+  ],
+  "req": "BB",
+  "faction": "ghost",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "ds",
+  "name": "Dimensional Splicer",
+  "types": [
+   "warfare"
+  ],
+  "req": "R",
+  "faction": "ghost",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "is",
+  "name": "Inheritance Systems",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YY",
+  "faction": "l1z1x",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "gr",
+  "name": "Genetic Recombination",
+  "types": [
+   "biotic"
+  ],
+  "req": "G",
+  "faction": "mahact",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "so",
+  "name": "Salvage Operations",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YY",
+  "faction": "mentak",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "ng",
+  "name": "Neuroglaive",
+  "types": [
+   "biotic"
+  ],
+  "req": "GGG",
+  "faction": "naalu",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "sc",
+  "name": "Supercharge",
+  "types": [
+   "warfare"
+  ],
+  "req": "R",
+  "faction": "naaz",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "vay",
+  "name": "Valefar Assimilator Y",
+  "types": [
+   "none"
+  ],
+  "req": "",
+  "faction": "nekro",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "tcs",
+  "name": "Temporal Command Suite",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "Y",
+  "faction": "nomad",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "vpw",
+  "name": "Valkyrie Particle Weave",
+  "types": [
+   "warfare"
+  ],
+  "req": "RR",
+  "faction": "sardakk",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "ht2",
+  "name": "Hel-Titan II",
+  "types": [
+   "unitupgrade"
+  ],
+  "req": "YR",
+  "faction": "titans",
+  "upgradeOf": "pds2",
+  "exp": "pok"
+ },
+ {
+  "id": "ers",
+  "name": "E-Res Siphons",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YY",
+  "faction": "jolnar",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "vtx",
+  "name": "Vortex",
+  "types": [
+   "warfare"
+  ],
+  "req": "R",
+  "faction": "cabal",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "htp",
+  "name": "Hegemonic Trade Policy",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YY",
+  "faction": "winnu",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "nf",
+  "name": "Nullification Field",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YY",
+  "faction": "xxcha",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "yso",
+  "name": "Yin Spinner Omega",
+  "types": [
+   "biotic"
+  ],
+  "req": "GG",
+  "faction": "yin",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "ic",
+  "name": "Impulse Core",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YY",
+  "faction": "yin",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "tp",
+  "name": "Transparasteel Plating",
+  "types": [
+   "biotic"
+  ],
+  "req": "G",
+  "faction": "yssaril",
+  "upgradeOf": null,
+  "exp": "base"
+ },
+ {
+  "id": "iihq",
+  "name": "I.I.H.Q. Modernization",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "Y",
+  "faction": "keleres",
+  "upgradeOf": null,
+  "exp": "pok"
+ },
+ {
+  "id": "asn",
+  "name": "Agency Supply Network",
+  "types": [
+   "cybernetic"
+  ],
+  "req": "YY",
+  "faction": "keleres",
+  "upgradeOf": null,
+  "exp": "pok"
+ }
+]

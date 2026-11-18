@@ -1,0 +1,352 @@
+[
+ {
+  "id": "revolution",
+  "name": "Anti-Intellectual Revolution",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "secret",
+  "name": "Archived Secret",
+  "type": "directive",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "arms_reduction",
+  "name": "Arms Reduction",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "classified",
+  "name": "Classified Document Leaks",
+  "type": "law",
+  "target": "Elect Scored Secret Objective (When this agenda is revealed, if there are no scored secret objectives, discard this card and reveal another agenda from the top of the deck.)",
+  "exp": "base"
+ },
+ {
+  "id": "redistribution",
+  "name": "Colonial Redistribution",
+  "type": "directive",
+  "target": "Elect Non-Home Planet Other Than Mecatol Rex",
+  "exp": "base"
+ },
+ {
+  "id": "committee",
+  "name": "Committee Formation",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "disarmament",
+  "name": "Compensated Disarmament",
+  "type": "directive",
+  "target": "Elect Planet",
+  "exp": "base"
+ },
+ {
+  "id": "conventions",
+  "name": "Conventions of War",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "economic_equality",
+  "name": "Economic Equality",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "travel_ban",
+  "name": "Enforced Travel Ban",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "sanctions",
+  "name": "Executive Sanctions",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "regulations",
+  "name": "Fleet Regulations",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "defense_act",
+  "name": "Homeland Defense Act",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "arbiter",
+  "name": "Imperial Arbiter",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "incentive",
+  "name": "Incentive Program",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "artifact",
+  "name": "Ixthian Artifact",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "abolishment",
+  "name": "Judicial Abolishment",
+  "type": "directive",
+  "target": "Elect Law (When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.)",
+  "exp": "base"
+ },
+ {
+  "id": "minister_commerce",
+  "name": "Minister of Commerce",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "minister_exploration",
+  "name": "Minister of Exploration",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "minister_industry",
+  "name": "Minister of Industry",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "minister_peace",
+  "name": "Minister of Peace",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "minister_policy",
+  "name": "Minister of Policy",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "minister_sciences",
+  "name": "Minister of Sciences",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "minister_war",
+  "name": "Minister of War",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "miscount",
+  "name": "Miscount Disclosed",
+  "type": "directive",
+  "target": "Elect Law",
+  "exp": "base"
+ },
+ {
+  "id": "mutiny",
+  "name": "Mutiny",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "constitution",
+  "name": "New Constitution",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "prophecy",
+  "name": "Prophecy of Ixth",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "execution",
+  "name": "Public Execution",
+  "type": "directive",
+  "target": "Elect Player",
+  "exp": "base"
+ },
+ {
+  "id": "schematics",
+  "name": "Publicize Weapon Schematics",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "conscription",
+  "name": "Regulated Conscription",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "seed_empire",
+  "name": "Seed of an Empire",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "shared_research",
+  "name": "Shared Research",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "plowshares",
+  "name": "Swords to Plowshares",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "unconventional",
+  "name": "Unconventional Measures",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "wormhole_recon",
+  "name": "Wormhole Reconstruction",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "wormhole_research",
+  "name": "Wormhole Research",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "base"
+ },
+ {
+  "id": "standardization",
+  "name": "Armed Forces Standardization",
+  "type": "directive",
+  "target": "Elect Player",
+  "exp": "pok"
+ },
+ {
+  "id": "articles_war",
+  "name": "Articles of War",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "pok"
+ },
+ {
+  "id": "checks",
+  "name": "Checks and Balances",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "pok"
+ },
+ {
+  "id": "cladenstine",
+  "name": "Clandestine Operations",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "pok"
+ },
+ {
+  "id": "covert",
+  "name": "Covert Legislation",
+  "type": "directive",
+  "target": "When this agenda is revealed, the speaker draws the next card in the agenda deck but does not reveal it to the other players. Instead, the speaker reads the eligible outcomes aloud (for, against, elect Elect Player, etc.). The other Players vote for these outcomes as if they were outcomes of this agenda, without knowing their effects.",
+  "exp": "pok"
+ },
+ {
+  "id": "crisis",
+  "name": "Galactic Crisis Pact",
+  "type": "directive",
+  "target": "Elect Strategy Card",
+  "exp": "pok"
+ },
+ {
+  "id": "minister_antiquities",
+  "name": "Minister of Antiquities",
+  "type": "directive",
+  "target": "Elect Player",
+  "exp": "pok"
+ },
+ {
+  "id": "nexus",
+  "name": "Nexus Sovereignty",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "pok"
+ },
+ {
+  "id": "censure",
+  "name": "Political Censure",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "pok"
+ },
+ {
+  "id": "rearmament",
+  "name": "Rearmament Agreement",
+  "type": "directive",
+  "target": "For/Against",
+  "exp": "pok"
+ },
+ {
+  "id": "rep_govt",
+  "name": "Representative Government",
+  "type": "law",
+  "target": "For/Against",
+  "exp": "pok"
+ },
+ {
+  "id": "grant_reallocation",
+  "name": "Research Grant Reallocation",
+  "type": "directive",
+  "target": "Elect Player",
+  "exp": "pok"
+ },
+ {
+  "id": "warrant",
+  "name": "Search Warrant",
+  "type": "law",
+  "target": "Elect Player",
+  "exp": "pok"
+ }
+]

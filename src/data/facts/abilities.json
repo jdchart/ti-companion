@@ -1,0 +1,292 @@
+[
+ {
+  "id": "mitosis",
+  "name": "Mitosis",
+  "faction": "arborec"
+ },
+ {
+  "id": "creuss_gate",
+  "name": "Creuss Gate",
+  "faction": "ghost"
+ },
+ {
+  "id": "quantum_entanglement",
+  "name": "Quantum Entanglement",
+  "faction": "ghost"
+ },
+ {
+  "id": "slipstream",
+  "name": "Slipstream",
+  "faction": "ghost"
+ },
+ {
+  "id": "arbiters",
+  "name": "Arbiters",
+  "faction": "hacan"
+ },
+ {
+  "id": "guild_ships",
+  "name": "Guild Ships",
+  "faction": "hacan"
+ },
+ {
+  "id": "master_of_trade",
+  "name": "Masters of Trade",
+  "faction": "hacan"
+ },
+ {
+  "id": "analytical",
+  "name": "Analytical",
+  "faction": "jolnar"
+ },
+ {
+  "id": "brilliant",
+  "name": "Brilliant",
+  "faction": "jolnar"
+ },
+ {
+  "id": "fragile",
+  "name": "Fragile",
+  "faction": "jolnar"
+ },
+ {
+  "id": "assimilate",
+  "name": "Assimilate",
+  "faction": "l1z1x"
+ },
+ {
+  "id": "harrow",
+  "name": "Harrow",
+  "faction": "l1z1x"
+ },
+ {
+  "id": "armada",
+  "name": "Armada",
+  "faction": "letnev"
+ },
+ {
+  "id": "munitions",
+  "name": "Munitions Reserves",
+  "faction": "letnev"
+ },
+ {
+  "id": "ambush",
+  "name": "Ambush",
+  "faction": "mentak"
+ },
+ {
+  "id": "pillage",
+  "name": "Pillage",
+  "faction": "mentak"
+ },
+ {
+  "id": "gashlai_physiology",
+  "name": "Gashlai Physiology",
+  "faction": "muaat"
+ },
+ {
+  "id": "star_forge",
+  "name": "Star Forge",
+  "faction": "muaat"
+ },
+ {
+  "id": "foresight",
+  "name": "Foresight",
+  "faction": "naalu"
+ },
+ {
+  "id": "telepathic",
+  "name": "Telepathic",
+  "faction": "naalu"
+ },
+ {
+  "id": "galactic_threat",
+  "name": "Galactic Threat",
+  "faction": "nekro"
+ },
+ {
+  "id": "propagation",
+  "name": "Propagation",
+  "faction": "nekro"
+ },
+ {
+  "id": "technological_singularity",
+  "name": "Technological Singularity",
+  "faction": "nekro"
+ },
+ {
+  "id": "nomadic",
+  "name": "Nomadic",
+  "faction": "saar"
+ },
+ {
+  "id": "scavenge",
+  "name": "Scavenge",
+  "faction": "saar"
+ },
+ {
+  "id": "unrelenting",
+  "name": "Unrelenting",
+  "faction": "sardakk"
+ },
+ {
+  "id": "orbital_drop",
+  "name": "Orbital Drop",
+  "faction": "sol"
+ },
+ {
+  "id": "versatile",
+  "name": "Versatile",
+  "faction": "sol"
+ },
+ {
+  "id": "blood_ties",
+  "name": "Blood Ties",
+  "faction": "winnu"
+ },
+ {
+  "id": "reclamation",
+  "name": "Reclamation",
+  "faction": "winnu"
+ },
+ {
+  "id": "peace_accords",
+  "name": "Peace Accords",
+  "faction": "xxcha"
+ },
+ {
+  "id": "quash",
+  "name": "Quash",
+  "faction": "xxcha"
+ },
+ {
+  "id": "devotion",
+  "name": "Devotion",
+  "faction": "yin"
+ },
+ {
+  "id": "indoctrination",
+  "name": "Indoctrination",
+  "faction": "yin"
+ },
+ {
+  "id": "crafty",
+  "name": "Crafty",
+  "faction": "yssaril"
+ },
+ {
+  "id": "scheming",
+  "name": "Scheming",
+  "faction": "yssaril"
+ },
+ {
+  "id": "stall_tactics",
+  "name": "Stall Tactics",
+  "faction": "yssaril"
+ },
+ {
+  "id": "raid_formation",
+  "name": "Raid Formation",
+  "faction": "argent"
+ },
+ {
+  "id": "zeal",
+  "name": "Zeal",
+  "faction": "argent"
+ },
+ {
+  "id": "amalgamation",
+  "name": "Amalgamation",
+  "faction": "cabal"
+ },
+ {
+  "id": "devour",
+  "name": "Devour",
+  "faction": "cabal"
+ },
+ {
+  "id": "riftmeld",
+  "name": "Riftmeld",
+  "faction": "cabal"
+ },
+ {
+  "id": "aetherpassage",
+  "name": "Aetherpassage",
+  "faction": "empyrean"
+ },
+ {
+  "id": "dark_whispers",
+  "name": "Dark Whispers",
+  "faction": "empyrean"
+ },
+ {
+  "id": "voidborn",
+  "name": "Voidborn",
+  "faction": "empyrean"
+ },
+ {
+  "id": "edict",
+  "name": "Edict",
+  "faction": "mahact"
+ },
+ {
+  "id": "hubris",
+  "name": "Hubris",
+  "faction": "mahact"
+ },
+ {
+  "id": "imperia",
+  "name": "Imperia",
+  "faction": "mahact"
+ },
+ {
+  "id": "distant_suns",
+  "name": "Distant Suns",
+  "faction": "naaz"
+ },
+ {
+  "id": "fabrication",
+  "name": "Fabrication",
+  "faction": "naaz"
+ },
+ {
+  "id": "future_sight",
+  "name": "Future Sight",
+  "faction": "nomad"
+ },
+ {
+  "id": "the_company",
+  "name": "The Company",
+  "faction": "nomad"
+ },
+ {
+  "id": "awaken",
+  "name": "Awaken",
+  "faction": "titans"
+ },
+ {
+  "id": "coalescence",
+  "name": "Coalescence",
+  "faction": "titans"
+ },
+ {
+  "id": "terragenesis",
+  "name": "Terragenesis",
+  "faction": "titans"
+ },
+ {
+  "id": "council_patronage",
+  "name": "Council Patronage",
+  "faction": "keleres"
+ },
+ {
+  "id": "laws_order",
+  "name": "Law's Order",
+  "faction": "keleres"
+ },
+ {
+  "id": "the_tribuni",
+  "name": "The Tribuni",
+  "faction": "keleres"
+ }
+]

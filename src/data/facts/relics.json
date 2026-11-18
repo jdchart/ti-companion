@@ -1,0 +1,52 @@
+[
+ {
+  "id": "dominusorb",
+  "name": "Dominus Orb",
+  "exp": "pok"
+ },
+ {
+  "id": "mawofworlds",
+  "name": "Maw of Worlds",
+  "exp": "pok"
+ },
+ {
+  "id": "emelpar",
+  "name": "Scepter of Emelpar",
+  "exp": "pok"
+ },
+ {
+  "id": "shard",
+  "name": "Shard of the Throne",
+  "exp": "pok"
+ },
+ {
+  "id": "stellarconverter",
+  "name": "Stellar Converter",
+  "exp": "pok"
+ },
+ {
+  "id": "codex",
+  "name": "The Codex",
+  "exp": "pok"
+ },
+ {
+  "id": "emphidia",
+  "name": "The Crown of Emphidia",
+  "exp": "pok"
+ },
+ {
+  "id": "thalnos",
+  "name": "The Crown of Thalnos",
+  "exp": "pok"
+ },
+ {
+  "id": "obsidian",
+  "name": "The Obsidian",
+  "exp": "pok"
+ },
+ {
+  "id": "prophetstears",
+  "name": "The Prophet's Tears",
+  "exp": "pok"
+ }
+]

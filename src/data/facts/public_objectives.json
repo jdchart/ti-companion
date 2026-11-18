@@ -1,0 +1,282 @@
+[
+ {
+  "id": "corner",
+  "name": "Corner the Market",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "develop",
+  "name": "Develop Weaponry",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "diversify",
+  "name": "Diversify Research",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "monument",
+  "name": "Erect a Monument",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "expand_borders",
+  "name": "Expand Borders",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "research_outposts",
+  "name": "Found Research Outposts",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "intimidate",
+  "name": "Intimidate Council",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "lead",
+  "name": "Lead From the Front",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "trade_routes",
+  "name": "Negotiate Trade Routes",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "sway_council",
+  "name": "Sway the Council",
+  "points": 1,
+  "stage": 1,
+  "exp": "base"
+ },
+ {
+  "id": "amass_wealth",
+  "name": "Amass Wealth",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "build_defenses",
+  "name": "Build Defenses",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "lost_outposts",
+  "name": "Discover Lost Outposts",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "engineer_marvel",
+  "name": "Engineer a Marvel",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "deep_space",
+  "name": "Explore Deep Space",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "infrastructure",
+  "name": "Improve Infrastructure",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "make_history",
+  "name": "Make History",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "outer_rim",
+  "name": "Populate the Outer Rim",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "push_boundaries",
+  "name": "Push Boundaries",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "raise_fleet",
+  "name": "Raise a Fleet",
+  "points": 1,
+  "stage": 1,
+  "exp": "pok"
+ },
+ {
+  "id": "centralize_trade",
+  "name": "Centralize Galactic Trade",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "conquer",
+  "name": "Conquer the Weak",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "brain_trust",
+  "name": "Form Galactic Brain Trust",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "golden_age",
+  "name": "Found a Golden Age",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "galvanize",
+  "name": "Galvanize the People",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "manipulate_law",
+  "name": "Manipulate Galactic Law",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "master_science",
+  "name": "Master the Sciences",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "revolutionize",
+  "name": "Revolutionize Warfare",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "subdue",
+  "name": "Subdue the Galaxy",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "unify_colonies",
+  "name": "Unify the Colonies",
+  "points": 2,
+  "stage": 2,
+  "exp": "base"
+ },
+ {
+  "id": "supremacy",
+  "name": "Achieve Supremacy",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ },
+ {
+  "id": "become_legend",
+  "name": "Become a Legend",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ },
+ {
+  "id": "command_armada",
+  "name": "Command an Armada",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ },
+ {
+  "id": "massive_cities",
+  "name": "Construct Massive Cities",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ },
+ {
+  "id": "control_borderlands",
+  "name": "Control the Borderlands",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ },
+ {
+  "id": "vast_reserves",
+  "name": "Hold Vast Reserves",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ },
+ {
+  "id": "vast_territories",
+  "name": "Patrol Vast Territories",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ },
+ {
+  "id": "protect_border",
+  "name": "Protect the Border",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ },
+ {
+  "id": "ancient_monuments",
+  "name": "Reclaim Ancient Monuments",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ },
+ {
+  "id": "distant_lands",
+  "name": "Rule Distant Lands",
+  "points": 2,
+  "stage": 2,
+  "exp": "pok"
+ }
+]
