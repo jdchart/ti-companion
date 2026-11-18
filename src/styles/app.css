@@ -1741,3 +1741,22 @@ table.data td {
 @keyframes sheet-up { from { transform: translateY(12px); opacity: 0; } to { transform: none; opacity: 1; } }
 @media (min-width: 761px) { .more-sheet, .more-backdrop { display: none; } }
 @media (prefers-reduced-motion: reduce) { .more-sheet { animation: none; } }
+
+/* ------------------------------------------------------------ search fixes */
+/* The results list is a flex column with a max-height: rows must not shrink,
+   otherwise they get squashed and their text overlaps the next row. */
+.search-results > * { flex-shrink: 0; }
+.search-results { overscroll-behavior: contain; -webkit-overflow-scrolling: touch; }
+@media (max-width: 760px) {
+  /* While searching, give the field the whole top bar. */
+  .topbar:focus-within .brand-mobile,
+  .topbar:focus-within > .btn,
+  .topbar:focus-within > .grow { display: none; }
+  .topbar:focus-within .searchbox { max-width: none; }
+  .searchbox input { font-size: 16px; } /* prevents iOS zoom-on-focus */
+  .search-results {
+    max-height: calc(100dvh - var(--topbar-h) - var(--bottombar-h) - env(safe-area-inset-bottom) - 16px);
+  }
+  .search-results .list-item { padding: 10px 12px; }
+  .search-results .tag { flex: none; }
+}
