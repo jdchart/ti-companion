@@ -1,5 +1,5 @@
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useI18n } from '../i18n/i18n'
 import { useTheme } from '../lib/theme'
 import { BrandMark, Icon, type IconName } from './Icon'
@@ -8,16 +8,24 @@ import { usePlans } from '../state/store'
 import type { StringKey } from '../i18n/strings'
 import type { L } from '../content/types'
 
-type NavItem = { to: string; icon: IconName; label: StringKey | L; end?: boolean; mobile?: boolean }
+/**
+ * ONE navigation list for desktop and mobile, same order and labels.
+ * `main` items: sidebar top / mobile bottom bar.
+ * `more` items: sidebar below a divider / mobile "More" sheet.
+ */
+type NavItem = { to: string; icon: IconName; label: StringKey | L; end?: boolean; group: 'main' | 'more' }
 const NAV: NavItem[] = [
-  { to: '/', icon: 'home', label: 'navHome', end: true, mobile: false },
-  { to: '/wiki', icon: 'book', label: 'navWiki' },
-  { to: '/factions', icon: 'flag', label: 'navFactions' },
-  { to: '/catalogue', icon: 'layers', label: { en: 'Plan catalogue', fr: 'Catalogue de plans' }, mobile: false },
-  { to: '/plans', icon: 'target', label: 'navPlans' },
-  { to: '/simulator', icon: 'dice', label: { en: 'Combat sim', fr: 'Simulateur' } },
-  { to: '/settings', icon: 'gear', label: 'navSettings' },
+  { to: '/', icon: 'home', label: 'navHome', end: true, group: 'main' },
+  { to: '/wiki', icon: 'book', label: 'navWiki', group: 'main' },
+  { to: '/factions', icon: 'flag', label: 'navFactions', group: 'main' },
+  { to: '/plans', icon: 'target', label: 'navPlans', group: 'main' },
+  { to: '/catalogue', icon: 'layers', label: { en: 'Plan catalogue', fr: 'Catalogue de plans' }, group: 'more' },
+  { to: '/simulator', icon: 'dice', label: { en: 'Combat sim', fr: 'Simulateur' }, group: 'more' },
+  { to: '/settings', icon: 'gear', label: 'navSettings', group: 'more' },
 ]
+const MAIN = NAV.filter((n) => n.group === 'main')
+const MORE = NAV.filter((n) => n.group === 'more')
+const MORE_L: L = { en: 'More', fr: 'Plus' }
 
 export function Layout() {
   const { t, l, lang, setLang } = useI18n()
@@ -26,9 +34,20 @@ export function Layout() {
   const { pathname } = useLocation()
   const { recovery, restoreRecovery, discardRecovery } = usePlans()
 
+  const [moreOpen, setMoreOpen] = useState(false)
+  const moreActive = MORE.some((n) => pathname.startsWith(n.to))
+
   useEffect(() => {
     window.scrollTo(0, 0)
+    setMoreOpen(false)
   }, [pathname])
+
+  useEffect(() => {
+    if (!moreOpen) return
+    const h = (e: KeyboardEvent) => e.key === 'Escape' && setMoreOpen(false)
+    window.addEventListener('keydown', h)
+    return () => window.removeEventListener('keydown', h)
+  }, [moreOpen])
 
   const isDark =
     theme === 'dark' || (theme === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches)
@@ -44,7 +63,15 @@ export function Layout() {
           </div>
         </NavLink>
         <ul className="navlist">
-          {NAV.map((n) => (
+          {MAIN.map((n) => (
+            <li key={n.to}>
+              <NavLink to={n.to} end={n.end} className="navlink">
+                <Icon name={n.icon} /> {label(n.label)}
+              </NavLink>
+            </li>
+          ))}
+          <li className="nav-divider" role="separator" />
+          {MORE.map((n) => (
             <li key={n.to}>
               <NavLink to={n.to} end={n.end} className="navlink">
                 <Icon name={n.icon} /> {label(n.label)}
@@ -101,13 +128,37 @@ export function Layout() {
         <Outlet />
       </main>
 
+      {moreOpen && (
+        <>
+          <div className="sheet-backdrop more-backdrop" onClick={() => setMoreOpen(false)} />
+          <div className="more-sheet" role="menu" aria-label={l(MORE_L)}>
+            {MORE.map((n) => (
+              <NavLink key={n.to} to={n.to} end={n.end} role="menuitem" className="more-item" onClick={() => setMoreOpen(false)}>
+                <Icon name={n.icon} size={20} />
+                <span>{label(n.label)}</span>
+                <Icon name="chevron" size={16} />
+              </NavLink>
+            ))}
+          </div>
+        </>
+      )}
       <nav className="bottomnav">
-        {NAV.filter((n) => n.mobile !== false).map((n) => (
+        {MAIN.map((n) => (
           <NavLink key={n.to} to={n.to} end={n.end}>
             <Icon name={n.icon} />
             {label(n.label)}
           </NavLink>
         ))}
+        <button
+          type="button"
+          className={moreActive || moreOpen ? 'active' : ''}
+          aria-expanded={moreOpen}
+          aria-haspopup="menu"
+          onClick={() => setMoreOpen((o) => !o)}
+        >
+          <Icon name="grid" />
+          {l(MORE_L)}
+        </button>
       </nav>
     </div>
   )

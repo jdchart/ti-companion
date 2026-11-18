@@ -95,6 +95,13 @@ export default function Home() {
               <div className="d">{lang === 'fr' ? 'Profils et plans de jeu' : 'Profiles & game plans'}</div>
             </div>
           </Link>
+          <Link className="qlink" to="/plans">
+            <Icon name="target" />
+            <div>
+              <div className="t">{t('navPlans')}</div>
+              <div className="d">{lang === 'fr' ? 'Préparer et suivre une partie' : 'Prepare and track a game'}</div>
+            </div>
+          </Link>
           <Link className="qlink" to="/catalogue">
             <Icon name="layers" />
             <div>
@@ -107,13 +114,6 @@ export default function Home() {
             <div>
               <div className="t">{lang === 'fr' ? 'Simulateur de combat' : 'Combat simulator'}</div>
               <div className="d">{lang === 'fr' ? 'Vos chances avant d’attaquer' : 'Your odds before you attack'}</div>
-            </div>
-          </Link>
-          <Link className="qlink" to="/plans">
-            <Icon name="target" />
-            <div>
-              <div className="t">{t('navPlans')}</div>
-              <div className="d">{lang === 'fr' ? 'Préparer et suivre une partie' : 'Prepare and track a game'}</div>
             </div>
           </Link>
         </div>
