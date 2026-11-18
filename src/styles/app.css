@@ -1760,3 +1760,15 @@ table.data td {
   .search-results .list-item { padding: 10px 12px; }
   .search-results .tag { flex: none; }
 }
+
+/* ------------------------------------------------------------ key/value sheet fixes */
+/* Value column may shrink below its content width; long values wrap instead of overflowing. */
+.kv { grid-template-columns: max-content minmax(0, 1fr); }
+.kv dd { min-width: 0; overflow-wrap: anywhere; }
+.kv dd .row { flex-wrap: wrap; min-width: 0; }
+@media (max-width: 760px) {
+  /* Phones: label above value, full width. */
+  .kv { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+  .kv dt { padding-top: 8px; }
+  .kv dt:first-child { padding-top: 0; }
+}
